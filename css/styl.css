@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	padding:0;
+	background:#000;
+}
+
+img{
+	width: 319px;
+	display: block;
+	height: 250px;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+iframe {
+	width: 319px;
+	height: 20px;
+	border: 0;
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	z-index: 0;
+}
+section{
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	z-index: 1;
+	background: #FF0000;
+	}
